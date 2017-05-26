@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## קרן עמר
 
-You can use the [editor on GitHub](https://github.com/omerfund/omerfund.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+אנשים רבים העוזבים את הדת עומדים בפני אתגרים שונים, כאשר חלקם נתקלים בקשיים כלכליים לאחר שכל חייהם חיו בקהילה תומכת.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+עמותת "עמר - קרן הלוואות ליוצאים בשאלה", שמה לה למטרה לתמוך ביוצאים על ידי מתן הלוואות בלא ריבית, כאשר ההחזר יכול להתפרס למשך תקופה של עד שנה וחצי ולעיתים אף יותר. בכך העמותה מקלה על השתלבותם בחברה הכללית, ועוזרת להם להתמודד עם הקשיים הכלכליים שנלווים ליציאה בשאלה ובייחוד בשלבים הראשונים של התהליך. יש להדגיש כי קהל היעד של העמותה הוא יוצאים בשאלה, ולא דתיים או חרדים המתלבטים באשר לדרכם.
 
-### Markdown
+כל חברי העמותה פועלים בהתנדבות, וכולם יוצאים בשאלה בעצמם, אשר חוו את הקשיים האמורים במידה זו או אחרת.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+מאז הקמתה ב-2007 ועד היום סייעה העמותה במתן עשרות הלוואות ליוצאים בשאלה, בסכומים מצטברים של מאות אלפי שקלים.
 
-```markdown
-Syntax highlighted code block
+העמותה פועלת בשלב זה בעזרת תרומות. בכדי לענות על הביקוש, עלינו לגייס כעת תרומות נוספות. כל שקל שנתרם, משמש לתמיכה בכמה אנשים. זאת, דרך ההלוואות החוזרות לעמותה ועוזרות שוב ושוב.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omerfund/omerfund.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ב-2016 הוחלט על פירוק העמותה והעברת הנכסים לעמותת הל"ל שתקצה אותם למטרות דומות ככל האפשר.
